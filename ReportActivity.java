@@ -1,9 +1,4 @@
-package com.example.firstreport;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Context;
-import android.os.Build;
 import android.os.Bundle;
 import android.print.PrintAttributes;
 import android.print.PrintDocumentAdapter;
